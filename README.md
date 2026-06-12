@@ -2,7 +2,7 @@
 
 <img width="100%" src="assets/header.svg" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Final+year+AI+%26+DS+student+at+KJSCE%2C+Mumbai;I+build+ML+systems+end+to+end;Interested+in+RAG%2C+LLM+evals+and+Indic+NLP" alt="intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Final-year+AI+%26+DS+student+at+KJSCE%2C+Mumbai;I+build+ML+systems+end+to+end;Interested+in+RAG%2C+LLM+evals+and+Indic+NLP" alt="intro" />
 
 <p>
 <a href="https://aditya-ravi.com"><img src="https://img.shields.io/badge/Portfolio-aditya--ravi.com-4A00E0?style=flat-square&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
@@ -15,8 +15,8 @@
 
 ## About Me
 
-- Final year B.Tech student in Artificial Intelligence & Data Science at KJ Somaiya College of Engineering, Mumbai
-- Currently working on LLM evaluation and retrieval augmented generation
+- Final-year B.Tech student in Artificial Intelligence & Data Science at KJ Somaiya College of Engineering, Mumbai
+- Currently working on LLM evaluation and retrieval-augmented generation
 - Learning about model quantization and efficient inference
 - Open to internships and research collaborations
 - Reach me at adiravi1104@gmail.com, or see more of my work at [aditya-ravi.com](https://aditya-ravi.com)
@@ -46,17 +46,17 @@
 <p>Question answering over SEC filings using RAG. Scores answers for hallucination and verifies citations, since financial QA is useless if you can't trust it.</p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center"><a href="https://github.com/aditya-ravi11/realtime-fraud-detection-qiea">realtime-fraud-detection-qiea</a></h3>
-<p>Credit card fraud detection on streaming data with Spark MLlib. Feature selection is done with a quantum inspired evolutionary algorithm (QIEA).</p>
+<h3 align="center"><a href="https://github.com/aditya-ravi11/realtime-fraud-detection-qiea">Real-Time Fraud Detection (QIEA)</a></h3>
+<p>Credit card fraud detection on streaming data with Spark MLlib. Feature selection is done with a quantum-inspired evolutionary algorithm (QIEA).</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center"><a href="https://github.com/aditya-ravi11/viva-ai">viva-ai</a></h3>
+<h3 align="center"><a href="https://github.com/aditya-ravi11/viva-ai">Viva AI</a></h3>
 <p>AI mock interviewer for Indian CS placements. Talks to you in real time and grades your code while you write it.</p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center"><a href="https://github.com/aditya-ravi11/kpi-anomaly-detection-system">kpi-anomaly-detection-system</a></h3>
+<h3 align="center"><a href="https://github.com/aditya-ravi11/kpi-anomaly-detection-system">KPI Anomaly Detection</a></h3>
 <p>Catches anomalies in retail KPIs and drills down to the root cause (STL decomposition + robust MAD scoring). Streamlit dashboard, built on the M5 Walmart dataset.</p>
 </td>
 </tr>
