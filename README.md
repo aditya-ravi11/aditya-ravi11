@@ -1,25 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,50:8E2DE2,100:00C9FF&height=200&section=header&text=Aditya%20Ravi&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%20and%20Data%20Science%20undergrad%20%7C%20Mumbai&descSize=17&descAlignY=55" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,50:8E2DE2,100:00C9FF&height=200&section=header&text=Aditya%20Ravi&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Undergrad%20%7C%20Mumbai&descSize=17&descAlignY=55" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=third+year+AI+%26+DS+student+at+KJSCE+Mumbai;I+like+building+ML+systems+end+to+end;currently+into+RAG%2C+LLM+evals+and+Indic+NLP" alt="intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Final+year+AI+%26+DS+student+at+KJSCE%2C+Mumbai;I+build+ML+systems+end+to+end;Interested+in+RAG%2C+LLM+evals+and+Indic+NLP" alt="intro" />
 
 <p>
+<a href="https://aditya-ravi.com"><img src="https://img.shields.io/badge/Portfolio-aditya--ravi.com-4A00E0?style=flat-square&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
+<a href="https://leetcode.com/u/adityar_101/"><img src="https://img.shields.io/badge/LeetCode-adityar__101-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode" /></a>
+<a href="https://codeforces.com/profile/adityar_101"><img src="https://img.shields.io/badge/Codeforces-adityar__101-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="codeforces" /></a>
 <a href="mailto:adiravi1104@gmail.com"><img src="https://img.shields.io/badge/Gmail-adiravi1104%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
-<img src="https://komarev.com/ghpvc/?username=aditya-ravi11&color=8E2DE2&style=flat-square" alt="views" />
 </p>
 
 </div>
 
-## About me
+## About Me
 
-- 🎓 Third year B.Tech in Artificial Intelligence & Data Science at KJ Somaiya College of Engineering, Mumbai
-- 🔭 Currently working on LLM evaluation and retrieval augmented generation
-- 🌱 Learning about model quantization and efficient inference these days
-- 💼 Open to internships and research collaborations
-- 📫 Best way to reach me is adiravi1104@gmail.com
+- Final year B.Tech student in Artificial Intelligence & Data Science at KJ Somaiya College of Engineering, Mumbai
+- Currently working on LLM evaluation and retrieval augmented generation
+- Learning about model quantization and efficient inference
+- Open to internships and research collaborations
+- Reach me at adiravi1104@gmail.com, or see more of my work at [aditya-ravi.com](https://aditya-ravi.com)
 
-## Tech I use
+## Tech Stack
 
 <div align="center">
 
@@ -70,7 +72,16 @@
 </tr>
 </table>
 
-## Stats
+## Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/adityar_101/"><img height="195" src="https://leetcard.jacoblin.cool/adityar_101?theme=dark&font=Fira%20Code&border=0&radius=8" alt="LeetCode stats" /></a>
+<a href="https://codeforces.com/profile/adityar_101"><img height="195" src="https://codeforces-readme-stats.vercel.app/api/card?username=adityar_101&theme=github_dark" alt="Codeforces stats" /></a>
+
+</div>
+
+## GitHub Stats
 
 <div align="center">
 
@@ -85,11 +96,7 @@
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-ravi11&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=8E2DE2&point=58A6FF&area=true" alt="activity" />
 
-</div>
-
-## 🐍
-
-<div align="center">
+<br/><br/>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditya-ravi11/aditya-ravi11/output/github-snake-dark.svg" />
