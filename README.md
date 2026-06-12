@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,50:8E2DE2,100:00C9FF&height=200&section=header&text=Aditya%20Ravi&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Undergrad%20%7C%20Mumbai&descSize=17&descAlignY=55" alt="banner" />
+<img width="100%" src="assets/header.svg" alt="banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Final+year+AI+%26+DS+student+at+KJSCE%2C+Mumbai;I+build+ML+systems+end+to+end;Interested+in+RAG%2C+LLM+evals+and+Indic+NLP" alt="intro" />
 
@@ -106,6 +106,6 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:8E2DE2,100:4A00E0&height=110&section=footer" alt="footer" />
+<img width="100%" src="assets/footer.svg" alt="footer" />
 
 </div>
