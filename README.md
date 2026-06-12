@@ -1,0 +1,104 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,50:8E2DE2,100:00C9FF&height=200&section=header&text=Aditya%20Ravi&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%20and%20Data%20Science%20undergrad%20%7C%20Mumbai&descSize=17&descAlignY=55" alt="banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=third+year+AI+%26+DS+student+at+KJSCE+Mumbai;I+like+building+ML+systems+end+to+end;currently+into+RAG%2C+LLM+evals+and+Indic+NLP" alt="intro" />
+
+<p>
+<a href="mailto:adiravi1104@gmail.com"><img src="https://img.shields.io/badge/Gmail-adiravi1104%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+<img src="https://komarev.com/ghpvc/?username=aditya-ravi11&color=8E2DE2&style=flat-square" alt="views" />
+</p>
+
+</div>
+
+## About me
+
+- 🎓 Third year B.Tech in Artificial Intelligence & Data Science at KJ Somaiya College of Engineering, Mumbai
+- 🔭 Currently working on LLM evaluation and retrieval augmented generation
+- 🌱 Learning about model quantization and efficient inference these days
+- 💼 Open to internships and research collaborations
+- 📫 Best way to reach me is adiravi1104@gmail.com
+
+## Tech I use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,pytorch,tensorflow,sklearn,opencv" alt="languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,flask,fastapi,kafka,postgres,mongodb,docker,git" alt="tools" />
+
+<p>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="spark" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="huggingface" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="streamlit" />
+</p>
+
+</div>
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/aditya-ravi11/PolicyRAG">PolicyRAG</a></h3>
+<p>Question answering over SEC filings using RAG. Scores answers for hallucination and verifies citations, since financial QA is useless if you can't trust it.</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/aditya-ravi11/realtime-fraud-detection-qiea">realtime-fraud-detection-qiea</a></h3>
+<p>Credit card fraud detection on streaming data with Spark MLlib. Feature selection is done with a quantum inspired evolutionary algorithm (QIEA).</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/aditya-ravi11/viva-ai">viva-ai</a></h3>
+<p>AI mock interviewer for Indian CS placements. Talks to you in real time and grades your code while you write it.</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/aditya-ravi11/kpi-anomaly-detection-system">kpi-anomaly-detection-system</a></h3>
+<p>Catches anomalies in retail KPIs and drills down to the root cause (STL decomposition + robust MAD scoring). Streamlit dashboard, built on the M5 Walmart dataset.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/aditya-ravi11/Pure-MNIST">Pure-MNIST</a></h3>
+<p>A neural network written from scratch in NumPy. Manual backprop, He initialization, ReLU/Softmax. No frameworks allowed.</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/aditya-ravi11/ChainSettle">ChainSettle</a></h3>
+<p>Simulates institutional token settlement with atomic DvP on Hyperledger Fabric. Java Spring Boot backend with a FINOS Perspective UI.</p>
+</td>
+</tr>
+</table>
+
+## Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aditya-ravi11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="stats" />
+<img height="180" src="https://streak-stats.demolab.com?user=aditya-ravi11&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-ravi11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&hide=jupyter%20notebook,css,html,scss" alt="languages" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-ravi11&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=8E2DE2&point=58A6FF&area=true" alt="activity" />
+
+</div>
+
+## 🐍
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditya-ravi11/aditya-ravi11/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditya-ravi11/aditya-ravi11/output/github-snake-light.svg" />
+<img width="95%" src="https://raw.githubusercontent.com/aditya-ravi11/aditya-ravi11/output/github-snake-dark.svg" alt="snake" />
+</picture>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:8E2DE2,100:4A00E0&height=110&section=footer" alt="footer" />
+
+</div>
